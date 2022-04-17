@@ -82,3 +82,37 @@
 生化危机|299|12
 英雄萨姆|98|24
 apex|198|7
+
+```c
+#include <stdio.h>
+#include <unistd.h>
+
+int main(void){
+	printf("c..\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main(void){
+	cout<<"c++"<<endl;
+
+}
+```
+
+```python
+import os
+
+def main():
+	loop = asyncio.get_event_loop()
+if __name == ""
+```
+```bash
+	netstate -apn | Grep
+	od -ctx files
+	touch testfile
+```
